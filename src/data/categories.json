@@ -1,0 +1,20 @@
+{
+    "categories":[
+        {
+            "id":0,
+            "image":"../../assets/tooth.png",
+            "name":"Dental Surgeon"
+        },
+        {
+            "id":1,
+            "image":"../../assets/heart.png",
+            "name":"Heart Surgeon"
+        },
+        {
+            "id":2,
+            "image":"../../assets/eyes.png",
+            "name":"Eyes Specialist"
+        }
+        
+    ]
+}
