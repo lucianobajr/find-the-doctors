@@ -1,0 +1,33 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Stella Kane",
+      "description": "Heart Surgeon - Flower Hospitals"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Joseph Cart",
+      "description": "Dental Surgeon - Flower Hospitals"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Stefani Albert",
+      "description": "Heart Surgeon - Flower Hospitals"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Dental Surgeon"
+    },
+    {
+      "id": 2,
+      "name": "Heart Surgeon"
+    },
+    {
+      "id": 3,
+      "name": "Eye Specialist"
+    }
+  ]
+}
