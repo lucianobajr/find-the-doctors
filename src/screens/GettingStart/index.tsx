@@ -3,7 +3,7 @@ import { useNavigation } from "@react-navigation/native";
 import { StackNavigationProp } from "@react-navigation/stack";
 
 import { RootStackParamList } from "../../routes";
-import Annimation from "../../assets/annimations/lf30_editor_paxciip9.json";
+import Annimation from "../../assets/annimations/gettingStart.json";
 
 import {
   Container,

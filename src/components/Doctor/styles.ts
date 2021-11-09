@@ -34,7 +34,7 @@ export const Container = styled.View<ContainerProps>`
   margin-bottom: 15px;
 `;
 
-export const InfosContainer = styled.View`
+export const InfosContainer = styled.TouchableOpacity`
   margin-left: 15px;
 `;
 
