@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#EF716B"
-      }
+      },
+      "package": "com.lucianobajr.findthedoctors"
     },
     "web": {
       "favicon": "./assets/favicon.png"

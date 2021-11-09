@@ -1,13 +1,16 @@
 import React from "react";
-import { Text, TouchableOpacity } from "react-native";
-import { Container } from "./styles";
+import CategoryList from "../../components/CategoryList";
+import Header from "../../components/Header";
+import SearchDoctors from "../../components/SearchDoctors";
+import { Container, Title } from "./styles";
 
 const Home: React.FC = () => {
   return (
     <Container>
-      <TouchableOpacity>
-        <Text>Clica aqui!</Text>
-      </TouchableOpacity>
+      <Header />
+      <Title>Find Your Desired Doctor</Title>
+      <SearchDoctors />
+      <CategoryList />
     </Container>
   );
 };

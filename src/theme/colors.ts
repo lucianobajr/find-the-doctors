@@ -1,6 +1,8 @@
 export const COLORS = {
   ORANGE: "#F57E71",
-
+  YELLOW: "#FFB167",
   WHITE: "#F9F9F9",
   BLUE_PRIMARY: "#1E1C61",
+  GRAY_PRIMARY: "#F2F2F2",
+  GRAY_SECONDARY: " #C0C0C0",
 };
