@@ -1,24 +1,17 @@
-import React, { useState } from "react";
+import React from "react";
+import Category from "../Category";
 
 import { Container, Title, List } from "./styles";
 
-import { categories } from "../../data/data.json";
-import {  Text } from "react-native";
-
-type CategoryProps = {
-  id: number;
-  name: string;
-};
-
 const CategoryList: React.FC = () => {
-  const [categoriesData, setCategoriesData] =
-    useState<CategoryProps[]>(categories);
-
   return (
     <Container>
       <Title>Categories</Title>
-
-     
+      <List>
+        <Category textInfo="Dental Surgeon" />
+        <Category type="second" textInfo="Heart Surgeon" />
+        <Category type="third" textInfo="Eye Specialist" />
+      </List>
     </Container>
   );
 };

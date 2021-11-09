@@ -2,7 +2,7 @@ import styled from "styled-components/native";
 import { COLORS, FONTS } from "../../theme";
 
 export const Container = styled.View`
-  flex: 1;
+  margin-top: 25px;
 `;
 
 export const Title = styled.Text`
@@ -13,5 +13,7 @@ export const Title = styled.Text`
   color: ${COLORS.BLUE_PRIMARY};
 `;
 
-export const List = styled.FlatList`
+export const List = styled.View`
+  flex-direction: row;
+  margin-top: 22px;
 `;

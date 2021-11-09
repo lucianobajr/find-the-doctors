@@ -18,3 +18,4 @@ export const Title = styled.Text`
   font-size: 30px;
   line-height: 38px;
 `;
+
