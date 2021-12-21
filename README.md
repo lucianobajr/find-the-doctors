@@ -4,7 +4,7 @@
 ## Screenshots
 | Splash | GettingStart | Home | Infos
 |-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------
-|<img src="screenshots/1.jpg" height="400em" /> | https://user-images.githubusercontent.com/45442173/146974460-fa48da6e-0c43-4a60-99ae-4d485a7f125c.mp4 | <img src="screenshots/3.jpg" height="400em" /> | <img src="screenshots/4.jpg" height="400em"/>
+|<img src="screenshots/1.jpg" height="400em" /> | <img src="screenshots/2.gif" height="400em"/> | <img src="screenshots/3.jpg" height="400em" /> | <img src="screenshots/4.jpg" height="400em"/>
 
 ## Design :art:
 https://www.figma.com/file/av4iXKGVUJzpZr8tToCLA7/DoctorConsultationApp
